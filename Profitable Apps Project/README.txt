@@ -23,3 +23,7 @@ Installation:
 Caveat:
     This is to be used as an example of the process undertaken for this type of business problem, not an exhaustive
     approach to actually predicting app success on the Google Play Market
+
+Structure:
+    Input CSVs and the cleaned data export are stored in the 'Raw_Data' directory.
+    The actual script is saved in a Jupyter Notebook (.ipynb) to provide markdown explanations throughout.
